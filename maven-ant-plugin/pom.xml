@@ -59,7 +59,7 @@ under the License.
 
   <properties>
     <mavenVersion>2.2.1</mavenVersion>
-    <antVersion>1.9.4</antVersion>
+    <antVersion>1.10.9</antVersion>
   </properties>
 
   <contributors>
